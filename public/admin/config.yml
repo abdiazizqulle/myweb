@@ -2,7 +2,7 @@ backend:
   name: github
   repo: abdiazizqulle/myweb
   branch: main
-  base_url: https://abdiazizqulle.com/api
+  base_url: https://abdiazizqulle.com
   auth_endpoint: auth
 
 media_folder: "public/images/uploads"
